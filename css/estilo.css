@@ -1,0 +1,97 @@
+
+/* CORES DA INFINITY MOBILE */
+:root {
+    --preto: #141820;
+    --azul: #3468c0;
+    --cinza: #f4f6f9;
+    --branco: #ffffff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--cinza);
+    color: var(--preto);
+}
+
+/* MENU */
+.navbar {
+    background-color: var(--preto);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+    color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: #a9c7ff !important;
+}
+
+
+.banner {
+    background-color: #3468c0;
+    color: white;
+    padding: 65px 20px;
+    text-align: center;
+}
+
+
+.banner h1 {
+    font-size: 38px;
+    font-weight: bold;
+}
+
+/* PRODUTOS */
+.card {
+    border: none;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: 0.2s;
+    height: 100%;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+.card-img-top {
+    height: 220px;
+    object-fit: contain;
+    padding: 20px;
+    background: white;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.preco {
+    font-size: 21px;
+    font-weight: bold;
+    color: var(--azul);
+}
+
+/* BOTÕES */
+.btn-primary {
+    background-color: var(--azul);
+    border-color: var(--azul);
+}
+
+.btn-primary:hover {
+    background-color: #254d94;
+    border-color: #254d94;
+}
+
+/* RODAPÉ */
+footer {
+    background-color: var(--preto);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
