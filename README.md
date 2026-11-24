@@ -35,3 +35,13 @@ As formas de pagamento são simuladas para fins educacionais.
 
 ## Projeto acadêmico
 Senac Nações Unidas - 2026.
+
+## Acesso administrativo
+
+1. Realize um cadastro normalmente pelo site.
+2. Acesse o phpMyAdmin.
+3. Abra o banco infinity_mobile.
+4. Acesse a tabela usuarios.
+5. Altere o campo tipo do usuário de cliente para admin.
+6. Saia do site e faça login novamente.
+7. Acesse o painel administrativo.
