@@ -1,0 +1,37 @@
+# Infinity Mobile
+
+## Sobre o projeto
+E-commerce de iPhones desenvolvido como atividade do 4º bimestre do curso técnico em Tecnologia da Informação do Senac.
+
+## Tecnologias utilizadas
+- HTML
+- CSS
+- PHP
+- MySQL
+- Bootstrap
+- XAMPP
+
+## Funcionalidades
+- Vitrine de produtos
+- Pesquisa e filtro por categoria
+- Detalhes dos produtos
+- Cadastro e login de clientes
+- Carrinho de compras
+- Finalização de pedidos
+- Controle de estoque
+- Painel administrativo
+- Gerenciamento de produtos e pedidos
+
+## Como executar
+1. Coloque a pasta do projeto dentro de htdocs do XAMPP.
+2. Inicie o Apache e o MySQL.
+3. Importe o arquivo database/schema.sql pelo phpMyAdmin.
+4. Copie o arquivo .env.example e renomeie a cópia para .env.
+5. Configure os dados de conexão com o banco.
+6. Acesse http://localhost/infinity-mobile/
+
+## Pagamento
+As formas de pagamento são simuladas para fins educacionais.
+
+## Projeto acadêmico
+Senac Nações Unidas - 2026.
