@@ -146,6 +146,7 @@ $pedidos = $consulta->fetchAll(PDO::FETCH_ASSOC);
         © 2026 Infinity Mobile - Projeto Escolar
     </p>
 </footer>
+<script src="../js/script.js"></script>
 
 </body>
 </html>

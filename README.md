@@ -10,6 +10,23 @@ E-commerce de iPhones desenvolvido como atividade do 4º bimestre do curso técn
 - MySQL
 - Bootstrap
 - XAMPP
+- JavaScript
+
+## Requisitos atendidos
+- [x] Uso de HTML, CSS, Bootstrap e JavaScript.
+- [x] Conexão com o banco de dados usando PHP e PDO.
+- [x] Cadastro e login de usuários.
+- [x] Proteção das senhas.
+- [x] Exibição dos produtos com imagens.
+- [x] Busca e filtro por categoria.
+- [x] Página com detalhes dos produtos.
+- [x] Carrinho de compras e controle de estoque.
+- [x] Finalização da compra com opções de pagamento.
+- [x] Painel administrativo.
+- [x] Cadastro, edição e exclusão de produtos.
+- [x] Visualização dos pedidos.
+- [x] Arquivos schema.sql, .env.example e .gitignore.
+- [x] Uso do Git e GitHub.
 
 ## Funcionalidades
 - Vitrine de produtos

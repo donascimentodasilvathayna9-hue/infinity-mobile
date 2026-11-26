@@ -311,8 +311,8 @@ $produtos = $conexao->query(
                                     Editar
                                 </a>
 
-                                <form method="POST"
-                                      onsubmit="return confirm('Excluir este produto?');">
+                               <form method="POST" class="form-excluir">
+                                      
 
                                     <input type="hidden"
                                            name="acao" value="excluir">
@@ -343,6 +343,7 @@ $produtos = $conexao->query(
         © 2026 Infinity Mobile - Projeto Escolar
     </p>
 </footer>
+<script src="../js/script.js"></script>
 
 </body>
 </html>
