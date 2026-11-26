@@ -39,6 +39,19 @@ E-commerce de iPhones desenvolvido como atividade do 4º bimestre do curso técn
 - Painel administrativo
 - Gerenciamento de produtos e pedidos
 
+## Desenvolvimento e implementação
+
+Parte do sistema | Trabalho realizado |
+Interface | Criação da identidade visual da loja de iPhones. |
+Catálogo | Organização dos aparelhos, imagens, preços e informações. |
+Banco de dados | Armazenamento dos usuários, produtos e pedidos. |
+Área do cliente | Cadastro, login e gerenciamento do carrinho. |
+Compras | Finalização de pedidos e atualização do estoque. |
+Administração | Controle dos produtos e consulta das vendas. |
+Testes | Verificação das funcionalidades e correções em JavaScript. |
+
+A tabela apresenta um resumo das atividades realizadas durante o projeto, registrado após sua implementação.
+
 ## Como executar
 1. Coloque a pasta do projeto dentro de htdocs do XAMPP.
 2. Inicie o Apache e o MySQL.
